@@ -1,0 +1,1 @@
+This Folder shall contain files related to GSM communication 
