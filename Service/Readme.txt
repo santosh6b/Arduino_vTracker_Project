@@ -1,0 +1,1 @@
+This Service folder will contain the fies realted to common services like GPS, RTC etc
