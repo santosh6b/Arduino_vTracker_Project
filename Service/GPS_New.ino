@@ -1,4 +1,3 @@
-// This is a branch file.
 
 String inputString = "";         // a string to hold incoming data
 boolean stringComplete = false;  // whether the string is complete
